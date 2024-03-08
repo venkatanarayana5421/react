@@ -13,6 +13,7 @@ function App({store}) {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Counseling and Visitor Management System</p>
+        <p>Counsellor </p>{/*line I changed*/}
       </header>
 
       <div className="App-body">
